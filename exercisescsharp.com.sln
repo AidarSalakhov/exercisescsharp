@@ -3,33 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to CSharp - Hello world!", "Hello world!\Introduction to CSharp - Hello world!.csproj", "{17C9418E-36FF-4E55-9DA5-F488E75D4277}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001. Introduction to CSharp - Hello world!", "Hello world!\001. Introduction to CSharp - Hello world!.csproj", "{17C9418E-36FF-4E55-9DA5-F488E75D4277}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to CSharp - Print lines in console", "Introduction to CSharp - Print lines in console\Introduction to CSharp - Print lines in console.csproj", "{F8F4A528-1F75-4D9A-8A86-937A738D17FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002. Introduction to CSharp - Print lines in console", "Introduction to CSharp - Print lines in console\002. Introduction to CSharp - Print lines in console.csproj", "{F8F4A528-1F75-4D9A-8A86-937A738D17FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to CSharp - Read user input", "Introduction to CSharp - Read user input\Introduction to CSharp - Read user input.csproj", "{C8AB0B9B-C58C-4E4F-AD1A-60F59304EE0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003. Introduction to CSharp - Read user input", "Introduction to CSharp - Read user input\003. Introduction to CSharp - Read user input.csproj", "{C8AB0B9B-C58C-4E4F-AD1A-60F59304EE0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to CSharp - Store user input", "Introduction to CSarp - Store user input\Introduction to CSharp - Store user input.csproj", "{337297E1-6957-4620-BC1E-4EACF832D21F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004. Introduction to CSharp - Store user input", "Introduction to CSarp - Store user input\004. Introduction to CSharp - Store user input.csproj", "{337297E1-6957-4620-BC1E-4EACF832D21F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to CSharp - Comments", "Introduction to CSharp - Comments\Introduction to CSharp - Comments.csproj", "{25BFCB9D-AE21-4699-8C7B-2A1166709792}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005. Introduction to CSharp - Comments", "Introduction to CSharp - Comments\005. Introduction to CSharp - Comments.csproj", "{25BFCB9D-AE21-4699-8C7B-2A1166709792}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Sums squared", "Arithmetic - Sums squared\Arithmetic - Sums squared.csproj", "{5A3124B6-DA6C-4DBB-9437-3992A7343287}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006. Arithmetic - Sums squared", "Arithmetic - Sums squared\006. Arithmetic - Sums squared.csproj", "{5A3124B6-DA6C-4DBB-9437-3992A7343287}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Multiplication of three factors", "Arithmetic - Multiplication of three factors\Arithmetic - Multiplication of three factors.csproj", "{B128A8DC-4AE2-44B9-9938-7B0DC57A2BB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007. Arithmetic - Multiplication of three factors", "Arithmetic - Multiplication of three factors\007. Arithmetic - Multiplication of three factors.csproj", "{B128A8DC-4AE2-44B9-9938-7B0DC57A2BB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Division and division module", "Arithmetic - Division and division module\Arithmetic - Division and division module.csproj", "{D1272F15-04FD-408A-8701-1076A8D3E6E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008. Arithmetic - Division and division module", "Arithmetic - Division and division module\008. Arithmetic - Division and division module.csproj", "{D1272F15-04FD-408A-8701-1076A8D3E6E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Division by zero", "Arithmetic - Division by zero\Arithmetic - Division by zero.csproj", "{D22A5E63-6BE5-4434-A40B-7C6086F07525}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009. Arithmetic - Division by zero", "Arithmetic - Division by zero\009. Arithmetic - Division by zero.csproj", "{D22A5E63-6BE5-4434-A40B-7C6086F07525}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Order of priority", "Arithmetic - Order of priority\Arithmetic - Order of priority.csproj", "{DBCEC166-90AC-499E-87F7-A136B7F21043}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010. Arithmetic - Order of priority", "Arithmetic - Order of priority\010. Arithmetic - Order of priority.csproj", "{DBCEC166-90AC-499E-87F7-A136B7F21043}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Average", "Arithmetic - Average\Arithmetic - Average.csproj", "{5A3C980E-3F3D-4B9F-9EC5-AD6E43F6A4E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011. Arithmetic - Average", "Arithmetic - Average\011. Arithmetic - Average.csproj", "{5A3C980E-3F3D-4B9F-9EC5-AD6E43F6A4E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Equivalent operations", "Arithmetic - Equivalent operations\Arithmetic - Equivalent operations.csproj", "{BC1867A4-5A0E-431F-804F-27E9AC9815DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012. Arithmetic - Equivalent operations", "Arithmetic - Equivalent operations\012. Arithmetic - Equivalent operations.csproj", "{BC1867A4-5A0E-431F-804F-27E9AC9815DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Calculate values of a function", "Arithmetic - Calculate values of a function\Arithmetic - Calculate values of a function.csproj", "{7FF250B5-6BBC-453C-8834-960EA8412091}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013. Arithmetic - Calculate values of a function", "Arithmetic - Calculate values of a function\013. Arithmetic - Calculate values of a function.csproj", "{7FF250B5-6BBC-453C-8834-960EA8412091}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data types A - Calculate dimensions of sphere", "Data types A - Calculate dimensions of sphere\Data types A - Calculate dimensions of sphere.csproj", "{8E4B4026-0062-4567-AA85-D3A02940C4E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014. Data types A - Calculate dimensions of sphere", "Data types A - Calculate dimensions of sphere\014. Data types A - Calculate dimensions of sphere.csproj", "{8E4B4026-0062-4567-AA85-D3A02940C4E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015. Data types A - Basic calculator", "Data types A - Basic calculator\015. Data types A - Basic calculator.csproj", "{ED048841-5F1E-4DA8-A221-C35C02AFC83A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016. Data types A - Reverse chars", "Data types A - Reverse chars\016. Data types A - Reverse chars.csproj", "{9A1B5737-77D9-4EDA-B032-C09C1F6A7148}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{8E4B4026-0062-4567-AA85-D3A02940C4E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E4B4026-0062-4567-AA85-D3A02940C4E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E4B4026-0062-4567-AA85-D3A02940C4E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED048841-5F1E-4DA8-A221-C35C02AFC83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED048841-5F1E-4DA8-A221-C35C02AFC83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED048841-5F1E-4DA8-A221-C35C02AFC83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED048841-5F1E-4DA8-A221-C35C02AFC83A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A1B5737-77D9-4EDA-B032-C09C1F6A7148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1B5737-77D9-4EDA-B032-C09C1F6A7148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1B5737-77D9-4EDA-B032-C09C1F6A7148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1B5737-77D9-4EDA-B032-C09C1F6A7148}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
