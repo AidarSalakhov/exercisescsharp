@@ -9,13 +9,27 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to CSharp - Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to CSharp - Read user input", "Introduction to CSharp - Read user input\Introduction to CSharp - Read user input.csproj", "{C8AB0B9B-C58C-4E4F-AD1A-60F59304EE0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to CSarp - Store user input", "Introduction to CSarp - Store user input\Introduction to CSarp - Store user input.csproj", "{337297E1-6957-4620-BC1E-4EACF832D21F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to CSharp - Store user input", "Introduction to CSarp - Store user input\Introduction to CSharp - Store user input.csproj", "{337297E1-6957-4620-BC1E-4EACF832D21F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to CSharp - Comments", "Introduction to CSharp - Comments\Introduction to CSharp - Comments.csproj", "{25BFCB9D-AE21-4699-8C7B-2A1166709792}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Sums squared", "Arithmetic - Sums squared\Arithmetic - Sums squared.csproj", "{5A3124B6-DA6C-4DBB-9437-3992A7343287}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Multiplication of three factors", "Arithmetic - Multiplication of three factors\Arithmetic - Multiplication of three factors.csproj", "{B128A8DC-4AE2-44B9-9938-7B0DC57A2BB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Division and division module", "Arithmetic - Division and division module\Arithmetic - Division and division module.csproj", "{D1272F15-04FD-408A-8701-1076A8D3E6E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Division by zero", "Arithmetic - Division by zero\Arithmetic - Division by zero.csproj", "{D22A5E63-6BE5-4434-A40B-7C6086F07525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Order of priority", "Arithmetic - Order of priority\Arithmetic - Order of priority.csproj", "{DBCEC166-90AC-499E-87F7-A136B7F21043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Average", "Arithmetic - Average\Arithmetic - Average.csproj", "{5A3C980E-3F3D-4B9F-9EC5-AD6E43F6A4E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Equivalent operations", "Arithmetic - Equivalent operations\Arithmetic - Equivalent operations.csproj", "{BC1867A4-5A0E-431F-804F-27E9AC9815DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic - Calculate values of a function", "Arithmetic - Calculate values of a function\Arithmetic - Calculate values of a function.csproj", "{7FF250B5-6BBC-453C-8834-960EA8412091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data types A - Calculate dimensions of sphere", "Data types A - Calculate dimensions of sphere\Data types A - Calculate dimensions of sphere.csproj", "{8E4B4026-0062-4567-AA85-D3A02940C4E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +65,34 @@ Global
 		{B128A8DC-4AE2-44B9-9938-7B0DC57A2BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B128A8DC-4AE2-44B9-9938-7B0DC57A2BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B128A8DC-4AE2-44B9-9938-7B0DC57A2BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1272F15-04FD-408A-8701-1076A8D3E6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1272F15-04FD-408A-8701-1076A8D3E6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1272F15-04FD-408A-8701-1076A8D3E6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1272F15-04FD-408A-8701-1076A8D3E6E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D22A5E63-6BE5-4434-A40B-7C6086F07525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22A5E63-6BE5-4434-A40B-7C6086F07525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22A5E63-6BE5-4434-A40B-7C6086F07525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22A5E63-6BE5-4434-A40B-7C6086F07525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCEC166-90AC-499E-87F7-A136B7F21043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCEC166-90AC-499E-87F7-A136B7F21043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCEC166-90AC-499E-87F7-A136B7F21043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCEC166-90AC-499E-87F7-A136B7F21043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3C980E-3F3D-4B9F-9EC5-AD6E43F6A4E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3C980E-3F3D-4B9F-9EC5-AD6E43F6A4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3C980E-3F3D-4B9F-9EC5-AD6E43F6A4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3C980E-3F3D-4B9F-9EC5-AD6E43F6A4E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1867A4-5A0E-431F-804F-27E9AC9815DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1867A4-5A0E-431F-804F-27E9AC9815DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1867A4-5A0E-431F-804F-27E9AC9815DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1867A4-5A0E-431F-804F-27E9AC9815DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FF250B5-6BBC-453C-8834-960EA8412091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF250B5-6BBC-453C-8834-960EA8412091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF250B5-6BBC-453C-8834-960EA8412091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF250B5-6BBC-453C-8834-960EA8412091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E4B4026-0062-4567-AA85-D3A02940C4E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4B4026-0062-4567-AA85-D3A02940C4E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4B4026-0062-4567-AA85-D3A02940C4E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4B4026-0062-4567-AA85-D3A02940C4E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
